@@ -1,12 +1,13 @@
 
 
 var config = {
-    apiKey: "AIzaSyB7TdJTjYGgHiuIy7YSyL2t7mOogaKceNU",
-    authDomain: "train-project-43011.firebaseapp.com",
-    databaseURL: "https://train-project-43011.firebaseio.com",
-    projectId: "train-project-43011",
-    storageBucket: "train-project-43011.appspot.com",
-    messagingSenderId: "484342349837"
+  apiKey: "AIzaSyD7bfYOjeOcjTTHsaVyopdEGQm3niitbtk",
+  authDomain: "train-schedule-c65ac.firebaseapp.com",
+  databaseURL: "https://train-schedule-c65ac.firebaseio.com",
+  projectId: "train-schedule-c65ac",
+  storageBucket: "train-schedule-c65ac.appspot.com",
+  messagingSenderId: "800292662174",
+  appId: "1:800292662174:web:83eaf0878b86bcb0"
   };
   firebase.initializeApp(config);
   
